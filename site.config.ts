@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-     name: 'Next.js Notion',
-     domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+     name: 'Steven',
+     domain: 'zyc.beybi.eu.org',
      author: 'Steven Chow',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Steven',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
